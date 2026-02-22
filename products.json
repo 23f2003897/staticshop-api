@@ -22,16 +22,28 @@
     {"id":"prod-3dc3ffe0-016","name":"Elite Item 16","category":"sports","price":96.21,"stock":41,"rating":2.7},
     {"id":"prod-3dc3ffe0-017","name":"Elite Item 17","category":"electronics","price":281.94,"stock":89,"rating":4.8},
     {"id":"prod-3dc3ffe0-018","name":"Basic Item 18","category":"home","price":43.36,"stock":39,"rating":1.5},
-    {"id":"prod-3dc3ffe0-019","name":"Elite Item 19","category":"books","price":286.99,"stock":13,"rating":2.1},
-    {"id":"prod-3dc3ffe0-020","name":"Elite Item 20","category":"sports","price":67.48,"stock":158,"rating":1.6},
-    {"id":"prod-3dc3ffe0-021","name":"Elite Item 21","category":"electronics","price":382.58,"stock":116,"rating":4.5},
-    {"id":"prod-3dc3ffe0-022","name":"Standard Item 22","category":"clothing","price":198.56,"stock":71,"rating":2.7}
+    {"id":"prod-3dc3ffe0-019","name":"Elite Item 19","category":"books","price":286.99,"stock":13,"rating":2.1}
   ],
   "aggregations": {
-    "clothing":{"count":6,"inventoryValue":144800.52},
-    "sports":{"count":6,"inventoryValue":112311.35},
-    "electronics":{"count":6,"inventoryValue":201987.43},
-    "books":{"count":3,"inventoryValue":28028.81},
-    "home":{"count":1,"inventoryValue":1691.04}
+    "clothing": {
+      "count": 5,
+      "inventoryValue": 144374.37
+    },
+    "sports": {
+      "count": 5,
+      "inventoryValue": 111843.87
+    },
+    "electronics": {
+      "count": 5,
+      "inventoryValue": 200576.92
+    },
+    "books": {
+      "count": 3,
+      "inventoryValue": 36264.67
+    },
+    "home": {
+      "count": 1,
+      "inventoryValue": 1691.04
+    }
   }
 }
