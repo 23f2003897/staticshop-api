@@ -25,7 +25,7 @@
     {"id":"prod-3dc3ffe0-019","name":"Standard Item 19","category":"sports","price":111.72,"stock":73,"rating":1.8}
   ],
   "aggregations": {
-    "electronics":{"count":2,"inventoryValue":100726.50},
+    "electronics":{"count":2,"inventoryValue":100726.5},
     "home":{"count":3,"inventoryValue":150411.77},
     "sports":{"count":7,"inventoryValue":351492.51},
     "clothing":{"count":4,"inventoryValue":42680.32},
